@@ -7,7 +7,7 @@
         <h1 class="heading-lrg primary-color launchaco-builder-hoverable">All your music in one place.</h1>
         <h2 class="subheading secondary-color mt20 launchaco-builder-hoverable">BrowserTunes hooks into Spotify, SoundCloud and YouTube to create a single, seamless listening experience, right from the comfort of your browser.</h2>
         <div class="mt40">
-          <a href="" target="_blank" class="button mobile-text-center mt10 launchaco-builder-hoverable primary-color mobile-text-center accent-bg fill-white">
+          <a href="https://chrome.google.com/webstore/detail/browsertunes/jbghlampdfmeoinnnhhkmhnmobmlgife" target="_blank" class="button mobile-text-center mt10 launchaco-builder-hoverable primary-color mobile-text-center accent-bg fill-white">
             <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
               <path d="M7.429 12c0 2.52 2.05 4.571 4.571 4.571 2.52 0 4.571-2.05 4.571-4.57 0-2.522-2.05-4.572-4.57-4.572A4.577 4.577 0 0 0 7.428 12z"></path>
               <path d="M22.26 6.014a.193.193 0 0 0-.002-.196 11.991 11.991 0 0 0-4.285-4.215A12.026 12.026 0 0 0 11.966 0a11.945 11.945 0 0 0-9.352 4.468.193.193 0 0 0-.016.219l3.367 5.787a.196.196 0 0 0 .36-.049c.664-2.552 2.984-4.335 5.64-4.335a6.035 6.035 0 0 1 .524.022h9.6c.071 0 .136-.037.171-.098z"></path>
