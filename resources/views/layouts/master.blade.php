@@ -17,9 +17,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="BrowserTunes is a browser extension that unifies all your music content providers in one place.">
   <meta property="og:image" content="/images/icon128.png">
-  <meta property="og:title" content="Hear what you've been missing." />
-  <meta property="og:url" content="https://www.example.com/webpage/" />
-  <meta property="og:description" content="BrowserTunes is a browser extension that unifies all your music content providers in one place.">
+  <meta property="og:title" content="BrowserTunes - All your music in one place." />
+  <meta property="og:url" content="https://www.browsertunes.com" />
+  <meta property="og:description" content="BrowserTunes is a browser extension that unifies all your music content providers.">
   <link rel="shortcut icon" href="/favicon.ico" />
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
