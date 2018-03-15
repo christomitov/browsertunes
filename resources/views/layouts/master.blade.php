@@ -17,7 +17,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="All your music in one place.">
   <meta property="og:image" content="">
-  {{--  <link rel="shortcut icon" href="https://www.launchaco.com/static/favicon.ico" />  --}}
+  <link rel="shortcut icon" href="/favicon.ico" />
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/styles.css">
