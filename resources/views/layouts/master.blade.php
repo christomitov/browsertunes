@@ -15,7 +15,22 @@
   <title>BrowserTunes</title>
   <meta charSet="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="BrowserTunes is a browser extension that unifies all your music content providers in one place.">
+  <meta name="description" content="BrowserTunes is a browser extension that unifies all your music content providers.">
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="BrowserTunes - All your music in one place.">
+  <meta itemprop="description" content="BrowserTunes is a browser extension that unifies all your music content providers.">
+  <meta itemprop="image" content="/images/icon128.png">
+
+  {{--  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="https://www.browsertunes.com">
+  <meta name="twitter:title" content="BrowserTunes - All your music in one place.">
+  <meta name="twitter:description" content="BrowserTunes is a browser extension that unifies all your music content providers.">
+  <meta name="twitter:creator" content="@author_handle">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  <meta name="twitter:image:src" content="http://www.example.com/image.jpg">  --}}
+
   <meta property="og:image" content="/images/icon128.png">
   <meta property="og:title" content="BrowserTunes - All your music in one place." />
   <meta property="og:url" content="https://www.browsertunes.com" />
