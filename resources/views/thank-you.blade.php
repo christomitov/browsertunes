@@ -10,12 +10,13 @@
         <h1 class="heading-lrg primary-color launchaco-builder-hoverable">Nice!</h1>
 
         <h2 class="subheading secondary-color mt20 launchaco-builder-hoverable">
-          You've successfully connected your Spotify account.
+          You've successfully connected your Spotify account. Open the extension to get listening 🎵
         </h2>
         <img src="images/party-popper.png" style="padding-top:40px;" height="300"/>
       </div>
     </div>
   </section>
+  <script>ga('send', 'event', 'signup', 'saw-thankyou')</script>
 </div>
 
 @endsection
