@@ -27,8 +27,8 @@ Route::get('search', function (Request $request) {
 
     $client = new Client();
 
-    $isYoutube = isset($request->all()['youtube']) && $request->all()['youtube'] == 1;
-    $isSpotify = isset($request->all()['spotify']) && $request->all()['spotify'] == 1;
+    $isYoutube = isset($request->all()['youtube']) && $request->all()['youtube'];
+    $isSpotify = isset($request->all()['spotify']) && $request->all()['spotify'];
 
     $youtube = $client->getAsync($_YOUTUBE_API_URL, [
         'query' => [
