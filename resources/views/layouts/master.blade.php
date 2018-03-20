@@ -39,6 +39,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/styles.css">
+  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/jbghlampdfmeoinnnhhkmhnmobmlgife">
 
 </head>
 
