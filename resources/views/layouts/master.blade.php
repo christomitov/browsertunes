@@ -31,7 +31,7 @@
   <!-- Twitter summary card with large image must be at least 280x150px -->
   <meta name="twitter:image:src" content="http://www.example.com/image.jpg">  --}}
 
-  <meta property="og:image" content="/images/icon128.png">
+  <meta property="og:image" content="/images/browsertunes-demo.gif">
   <meta property="og:title" content="BrowserTunes - All your music in one place." />
   <meta property="og:url" content="https://www.browsertunes.com" />
   <meta property="og:description" content="BrowserTunes is a browser extension that unifies all your music content providers.">
