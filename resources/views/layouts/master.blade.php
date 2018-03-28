@@ -44,6 +44,7 @@
     .featurette-heading { font-size:35px; }
     hr { border: 0; border-top: 1px solid rgba(0,0,0,.1); }
     .featurette-divider {margin: 5rem 0;}
+    .coral-white .accent-bg{background-color:#fe7a6d !important}
   </style>
 </head>
 
