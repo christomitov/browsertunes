@@ -27,12 +27,12 @@ Route::get('search', function (Request $request) {
 
     $client = new Client();
 
-    $isYoutube = isset($request->all()['youtube']) && $request->all()['youtube'];
-    $isSpotify = isset($request->all()['spotify']) && $request->all()['spotify'];
+    $isYoutube = isset($request->all()['youtube']) && $request->all()['youtube'] == 'true';
+    $isSpotify = isset($request->all()['spotify']) && $request->all()['spotify'] == 'true';
 
     $youtube = $client->getAsync($_YOUTUBE_API_URL, [
         'query' => [
-            'part' => 'snippet',
+            'part' => 'snippet','contentDetails',
             'q' => $request->all()['terms'],
             'key' => $_YOUTUBE_API_KEY,
             'type' => 'video',

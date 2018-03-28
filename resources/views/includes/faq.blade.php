@@ -1,4 +1,4 @@
-<section id="faq-2" class="section coral-accent" sitemeta="[object Object]" activepage="Landing">
+<section id="faq" class="section coral-accent" sitemeta="[object Object]" activepage="Landing">
   <div class="container">
     <div class="col-12 text-center">
       <h3 class="heading primary-color launchaco-builder-hoverable">
@@ -16,14 +16,6 @@
         <p class="paragraph secondary-color launchaco-builder-hoverable">
           BrowserTunes believes in the philosophy that music should be shared no matter the platform, while also rewarding artists for their creative output. Many music providers are fighting for a walled-garden approach but BrowserTunes is an attempt to unify
           that into your browser seamlessly.
-        </p>
-      </div>
-      <div class="faq pad20">
-        <b class="bold primary-color launchaco-builder-hoverable">
-          Is it free?
-        </b>
-        <p class="paragraph secondary-color launchaco-builder-hoverable">
-          Yup, the only thing you pay for are the subscription based services that you already have when you connect BrowserTunes.
         </p>
       </div>
       <div class="faq pad20">

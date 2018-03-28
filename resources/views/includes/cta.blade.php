@@ -1,4 +1,4 @@
-<section id="cta-3" class="section coral-white" sitemeta="[object Object]" activepage="Landing">
+<section id="cta-3" class="section mt40 coral-flat" sitemeta="[object Object]" activepage="Landing">
   <!---->
   <div class="container text-center">
     <div class="col-12">

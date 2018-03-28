@@ -1,4 +1,4 @@
-<section id="feature-1" class="section coral-white" sitemeta="[object Object]" activepage="Landing">
+<section id="feature" class="section coral-flat font-friendly" sitemeta="[object Object]" activepage="Landing">
   <div class="container-lrg flex">
     <div class="col-4 text-center flex flex-column center-horizontal">
       <i class="icon mobile-center-icon secondary-bg launchaco-builder-hoverable">
@@ -16,7 +16,7 @@
         </svg>
       </i>
       <h3 class="bold primary-color launchaco-builder-hoverable">Works in the Browser</h3>
-      <p class="paragraph secondary-color launchaco-builder-hoverable">Here's an extension you'll actually use. With omnibox search support you can find songs faster than ever.</p>
+      <p class="paragraph secondary-color launchaco-builder-hoverable">Here's an extension you'll actually use. With smart search you can find songs faster than ever.</p>
     </div>
     <div class="col-4 text-center flex flex-column center-horizontal">
       <i class="icon mobile-center-icon secondary-bg launchaco-builder-hoverable">
