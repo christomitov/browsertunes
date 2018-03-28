@@ -40,7 +40,11 @@
 
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/jbghlampdfmeoinnnhhkmhnmobmlgife">
-
+  <style>
+    .featurette-heading { font-size:35px; }
+    hr { border: 0; border-top: 1px solid rgba(0,0,0,.1); }
+    .featurette-divider {margin: 5rem 0;}
+  </style>
 </head>
 
 <body class="font-friendly">
